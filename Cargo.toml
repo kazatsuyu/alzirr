@@ -1,0 +1,7 @@
+[package]
+name = "alzirr"
+version = "0.1.0"
+authors = ["kazatsuyu <shirayama.kazatsuyu@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
